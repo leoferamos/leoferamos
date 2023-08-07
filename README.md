@@ -1,5 +1,5 @@
 ## Olá! Sou Leonardo Ramos, desenvolvedor e estudante de Engenharia de Software!
-![](https://github-readme-stats.vercel.app/api?username=leoferamos&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=leoferamos&count_private=true&hide_title=true)
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
