@@ -4,6 +4,9 @@
 </div>
 
 ---
+[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoferamos)](https://github.com/leoferamos/github-readme-stats/)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leoferamos&layout=compact)](https://github.com/leoferamos/github-readme-stats)
+---
 
 <h3 align="center">Linguagens e Ferramentas 🚀</h3>
 <p align="center">
