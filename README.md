@@ -1,12 +1,12 @@
----
 ## Olá! Sou Leonardo Ramos, desenvolvedor e estudante de Engenharia de Software!
 
-<div align="center">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leoferamos&theme=dracula" alt="Leonardo's GitHub stats">
+</p>
 
 
-[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoferamos)](https://github.com/leoferamos/github-readme-stats/)
 ---
+
 
 <h3 align="center">Linguagens e Ferramentas 🚀</h3>
 <p align="center">
