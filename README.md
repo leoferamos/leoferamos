@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Leonardo.<br> Estudante de Engenharia de Software e DevOps Engineer</h2>
+<h2 align="left">Olá, sou Leonardo.<br> DevOps Engineer e Estudante de Engenharia de Software </h2>
 
 ###
 
