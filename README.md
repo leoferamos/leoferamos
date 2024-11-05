@@ -1,4 +1,9 @@
-<h2 align="left">Olá, sou Leonardo.<br> DevOps Engineer e Estudante de Engenharia de Software </h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=1800&pause=800&color=3DF742&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Leonardo!+%F0%9F%91%8B;DevOps+Engineer+%E2%99%BE%EF%B8%8F;Estudante+de+Engenharia+de+Software+%F0%9F%93%95" alt="Typing SVG">
+  </a>
+</p>
+
 
 ###
 
