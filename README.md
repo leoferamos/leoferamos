@@ -14,7 +14,9 @@
 
 ###
 
-<h2 align="center">Tecnologias:</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=1800&pause=1200&color=3DF742&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Tecnologias%3A" alt="Typing SVG" /></a>
+</p>
 
 ###
 
