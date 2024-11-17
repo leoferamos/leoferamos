@@ -3,13 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=1800&pause=800&color=3DF742&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Leonardo!+%F0%9F%91%8B;DevOps+Engineer+%E2%99%BE%EF%B8%8F;Estudante+de+Engenharia+de+Software+%F0%9F%93%95" alt="Typing SVG">
   </a>
 </p>
-
-
-###
-
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoferamos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leoferamos&theme=dracula" alt="Leonardo's GitHub stats">
+  <img src="pc.gif" alt="gif" height="150px" width="320px" />
 </div>
 
 ###
