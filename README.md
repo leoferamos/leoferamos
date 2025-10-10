@@ -1,11 +1,16 @@
 <h2 align="center">hey there 👋</h2>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leoferamos.leoferamos" alt="visitor count" />
+</div>
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leoferamos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoferamos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
+
 
 ###
 
